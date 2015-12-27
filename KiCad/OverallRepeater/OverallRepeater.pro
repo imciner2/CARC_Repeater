@@ -1,4 +1,4 @@
-update=Mon 30 Nov 2015 11:37:19 PM CST
+update=Sun 27 Dec 2015 04:53:30 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -41,3 +41,4 @@ LibName9=/home/imcinerney/Documents/Github/CARC_Repeater/KiCad/libraries/symbols
 LibName10=/home/imcinerney/Documents/Github/CARC_Repeater/KiCad/libraries/symbols/Sensors
 LibName11=/home/imcinerney/Documents/Github/CARC_Repeater/KiCad/libraries/symbols/TransistorParts
 LibName12=RepeaterParts
+LibName13=Connectors
