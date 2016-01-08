@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HEX_INVERTER
+D 6-unit Hex Inverter
+$ENDCMP
+#
 $CMP ILD213T
 D Dual Channel Optocoupler by Vishay
 K Optocoupler
